@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Work manager</string>
+    <string name="bt_simple_work">Simple Work</string>
+    <string name="bt_stop_simple_work">Stop Simple Work</string>
+
+    <string name="bt_coroutine_work">Coroutine Work</string>
+    <string name="bt_stop_coroutine_work">Stop Coroutine Work</string>
+    <string name="bt_stop_handler_work">Stop Coroutine Handler</string>
+    <string name="bt_handler_work">Coroutine Handler</string>
+    <string name="bt_long_coroutine_work">Long Coroutine</string>
+    <string name="bt_stop_long_coroutine_work">Stop Long Coroutine</string>
+
+    <string name="tv_mensaje">Simple Work</string>
+
+</resources>
